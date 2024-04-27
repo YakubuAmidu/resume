@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const LeftContainer = styled.div`
   flex: 1;
-  height: 775px;
+  height: 790px;
   color: white;
   background-color: #00008b;
 `;
