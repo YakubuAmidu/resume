@@ -33,6 +33,25 @@ export const Email = styled.div`
   padding: 0.5rem;
 `;
 
+export const Website = styled.div`
+  display: flex;
+  flexdirection: row;
+  margin-bottom: 0.6rem;
+  padding: 0.5rem;
+`;
+
+export const Websiteparagraph = styled.p`
+  margin-right: 1rem;
+  font-weight: bold;
+  color: orangered;
+  background-color: white;
+`;
+
+export const Websitelink = styled.a`
+  text-decoration: none;
+  color: white;
+`;
+
 export const Location = styled.div`
   display: flex;
   flexdirection: row;

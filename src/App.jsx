@@ -12,6 +12,9 @@ import {
   Phone,
   Mail,
   Address,
+  Website,
+  Websitelink,
+  Websiteparagraph
 } from "./css/Leftsection";
 
 import {
@@ -46,6 +49,12 @@ const App = () => {
               <Mail>Email: </Mail>
               <p>yakubamidu19@gmail.com</p>
             </Email>
+            <Website>
+              <Websiteparagraph>Website: </Websiteparagraph>
+              <Websitelink href="https://toprankprogramming.dev/">
+                toprankprogramming.dev
+              </Websitelink>
+            </Website>
             <Location>
               <Address>Location: </Address>
               <p>Los Angele, California</p>
