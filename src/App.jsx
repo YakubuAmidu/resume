@@ -40,11 +40,11 @@ const App = () => {
             <Name>Yakubu Amidu</Name>
             <Contact>
               <Phone>Phone: </Phone>
-              <p>323-555-5555</p>
+              <p>323-875-6263</p>
             </Contact>
             <Email>
               <Mail>Email: </Mail>
-              <p>yakubamidu@gmail.com</p>
+              <p>yakubamidu19@gmail.com</p>
             </Email>
             <Location>
               <Address>Location: </Address>
