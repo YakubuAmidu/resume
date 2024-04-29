@@ -14,7 +14,7 @@ import {
   Address,
   Website,
   Websitelink,
-  Websiteparagraph
+  Websiteparagraph,
 } from "./css/Leftsection";
 
 import {
@@ -108,8 +108,8 @@ const App = () => {
           <div>
             <Education>Education</Education>
             <Educationpargraph>
-              <p>Los Angeles City College</p>
-              <p>Udemy.com online courses</p>
+              <p>Los Angeles Trade Tech - 2013 - 2015</p>
+              <p>Udemy.com online courses - 2018 - 2023</p>
             </Educationpargraph>
           </div>
           <div>
